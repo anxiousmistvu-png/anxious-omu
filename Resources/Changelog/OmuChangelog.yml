@@ -2246,3 +2246,9 @@ Entries:
         a fishing set in the mining voucher
   id: 282
   time: '2026-02-28T15:54:07.0000000+00:00'
+- author: harryhulse12-alt
+  changes:
+    - type: Tweak
+      message: Changed round xeno chaos cost
+  id: 283
+  time: '2026-02-28T15:59:03.0000000+00:00'
