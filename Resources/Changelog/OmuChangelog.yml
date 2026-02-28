@@ -2232,3 +2232,9 @@ Entries:
       message: Removed the mouse egg organ from mice
   id: 280
   time: '2026-02-28T11:48:10.0000000+00:00'
+- author: raincally
+  changes:
+    - type: Add
+      message: Added leopard and tiger tail markings for felinid and tajaran
+  id: 281
+  time: '2026-02-28T15:42:28.0000000+00:00'
