@@ -2614,3 +2614,9 @@ Entries:
       message: QM's Digiboard can now be linked to cargo telepads.
   id: 331
   time: '2026-03-15T17:55:37.0000000+00:00'
+- author: PickelSilly
+  changes:
+    - type: Add
+      message: IdiotVibes' Glory to Cardonia artwork now in lobby art rotation!
+  id: 332
+  time: '2026-03-16T17:46:29.0000000+00:00'
