@@ -2752,3 +2752,11 @@ Entries:
       message: The Automated Trade Station now spawns further away from the station.
   id: 350
   time: '2026-03-21T21:15:55.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Tweak
+      message: >-
+        Ipcs bleed coolant instead of oil now... New tasty beverage for the
+        Voxes....
+  id: 351
+  time: '2026-03-21T21:16:52.0000000+00:00'
