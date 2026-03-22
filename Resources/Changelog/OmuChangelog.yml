@@ -2851,3 +2851,9 @@ Entries:
         trying to bypass this.
   id: 363
   time: '2026-03-22T20:41:33.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Tweak
+      message: Atomic Precision only dna scrambles at 25u now. It also adds ethanol now
+  id: 364
+  time: '2026-03-22T21:50:08.0000000+00:00'
