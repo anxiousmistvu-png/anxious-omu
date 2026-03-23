@@ -2871,3 +2871,9 @@ Entries:
         approved..
   id: 366
   time: '2026-03-23T01:25:56.0000000+00:00'
+- author: Thesia000
+  changes:
+    - type: Add
+      message: Dedicated roundtype for tokens and admin events
+  id: 367
+  time: '2026-03-23T01:26:26.0000000+00:00'
