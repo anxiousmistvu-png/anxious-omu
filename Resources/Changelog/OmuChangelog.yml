@@ -2947,3 +2947,9 @@ Entries:
       message: Salv shuttle control is now mapped
   id: 376
   time: '2026-03-29T15:10:53.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Tweak
+      message: IPCs now take ion damage from EMPs
+  id: 377
+  time: '2026-03-29T19:20:16.0000000+00:00'
