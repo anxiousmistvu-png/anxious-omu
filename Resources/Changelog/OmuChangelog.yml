@@ -3007,3 +3007,13 @@ Entries:
       message: Tweaked the amount of TC Warops provides nukies
   id: 384
   time: '2026-03-30T07:30:39.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Tweak
+      message: >-
+        Removed leg coverage from secoff greatcoat. Hos and ward greatcoat stats
+        match their other armors now
+    - type: Tweak
+      message: Hos and warden jackets have 45% infect resist now
+  id: 385
+  time: '2026-03-30T08:04:14.0000000+00:00'
